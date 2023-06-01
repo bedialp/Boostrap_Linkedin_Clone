@@ -80,6 +80,7 @@ input.content::placeholder {
 
 div.card {
   border-radius: 10px;
+  background: white;
 }
 
 .header {
