@@ -3,6 +3,14 @@
   background-color: white;
 }
 
+.navbar-alignment {
+  text-align: center;
+}
+
+.navbar-posts-sizing {
+  margin-top: 5%;
+}
+
 input.searche {
   height: 36px;
   max-width: 500px;
